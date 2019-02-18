@@ -1,0 +1,24 @@
+/* Your button CSS code here */
+
+.btn-yours {
+  color: #5c8956;
+  border: 1px 1px;
+  background-color: #ffffff;
+  border: 1px solid #5c8956;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.btn-yours:hover {
+  color: #5c8956;
+  border: 1px solid #5c8956;
+  background-color: rgba(256,256,256,0.9);
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+
