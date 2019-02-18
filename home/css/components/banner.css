@@ -17,13 +17,21 @@
  }
 
  .banner-content h1 {
- 	font-size: 70px;
+ 	font-size: 80px;
  	color: white;
+  margin-bottom: 0px;
+ }
+
+.banner-content h2 {
+  font-size: 40px;
+  color: white;
+  margin-top: 0px;
  }
 
  .banner-content p {
 	background-color: rgba(256,256,256,0.3);
 	color: #ffffff;
+  margin-bottom: 50px;
 	font-size: 36px};
  }
 
@@ -41,13 +49,12 @@
   font-weight: lighter;
   padding: 20px;
   margin: 20px;
-  font-size: px;
+  font-size: 20px;
+
 }
 
-.world {
-  width: 200px;
-  background-image: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url('../../images/globe.png');
-  background-size: cover;
-  margin: 20px;
+
+.list p {
+  margin-bottom: 40px;
 }
 
